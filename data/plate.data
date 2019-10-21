@@ -1,0 +1,6 @@
+classes=2
+train=./data/plate.txt
+valid=./data/plate.txt
+names=data/plate.names
+backup=backup/
+eval=plate
